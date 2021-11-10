@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Volkswagen GTR",
+        "img": "https: //i.ibb.co/SPqnRV5/best-01.jpg",
+        "descliption": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid maxime aut ut voluptate dolorum nisi ducimus ratione",
+        "price": "$29,545"
+    },
+    {
+        "name": "Audi Sport S8",
+        "img": "https: //i.ibb.co/KX7Qbdn/best-02.jpg",
+        "descliption": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid maxime aut ut voluptate dolorum nisi ducimus ratione",
+        "price": "$130,900"
+    },
+    {
+        "name": "Bugatti Veyron F2 ",
+        "img": "https: //i.ibb.co/SBpTy7j/best-03.jpg",
+        "descliption": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid maxime aut ut voluptate dolorum nisi ducimus ratione",
+        "price": " ₹ 11.39 Crore"
+    },
+    {
+        "name": "Mercedes Benz R3",
+        "img": "https: //i.ibb.co/60g8vdv/best-04.jpg",
+        "descliption": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid maxime aut ut voluptate dolorum nisi ducimus ratione",
+        "price": "₹ 64.29 Lakh"
+    },
+    {
+        "name": "Toyota Avanza RX",
+        "img": "https: //i.ibb.co/stWWWVz/best-05.jpg",
+        "descliption": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid maxime aut ut voluptate dolorum nisi ducimus ratione",
+        "price": "$60,545"
+    },
+    {
+        "name": "Chevrolet GTR",
+        "img": "https: //i.ibb.co/g94yGhD/best-06.jpg",
+        "descliption": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid maxime aut ut voluptate dolorum nisi ducimus ratione",
+        "price": " $113,540."
+    },
+    {
+        "name": "Ford Motor",
+        "img": "https: //i.ibb.co/stWWWVz/best-05.jpg",
+        "descliption": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid maxime aut ut voluptate dolorum nisi ducimus ratione",
+        "price": "$29,545"
+    },
+    {
+        "name": "Hyundai Z.E",
+        "img": "https: //i.ibb.co/SBpTy7j/best-03.jpg",
+        "descliption": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid maxime aut ut voluptate dolorum nisi ducimus ratione",
+        "price": "$29,545"
+    },
+    {
+        "name": "Audi R8",
+        "img": "https: //i.ibb.co/60g8vdv/best-04.jpg",
+        "descliption": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid maxime aut ut voluptate dolorum nisi ducimus ratione",
+        "price": "$29,545"
+    },
+    {
+        "name": "Daimler",
+        "img": "https: //i.ibb.co/SPqnRV5/best-01.jpg",
+        "descliption": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid maxime aut ut voluptate dolorum nisi ducimus ratione",
+        "price": "$29,545"
+    }
+]
