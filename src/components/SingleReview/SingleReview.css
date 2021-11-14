@@ -1,0 +1,16 @@
+ /* fa-star{
+    border: 2px solid goldenrod;
+} */
+.icon-color{
+    color: rgb(255, 190, 25);
+    font-size: 30px;
+}
+.card-body{
+    background: linear-gradient(to bottom, #514f79 0%, #6c6b77 100%);
+}
+.card-title{
+    color: #FFCD00 ;
+}
+.card-text{
+    color: #ffffff ;
+}

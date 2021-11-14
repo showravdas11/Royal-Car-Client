@@ -1,0 +1,13 @@
+.explore-bg{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://i.ibb.co/xLVLHNL/slide1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+}
+
+.explore-head{
+    color: #ffffff ;
+}
+.explore-head:hover{
+    color: #FFCD00  ;
+}

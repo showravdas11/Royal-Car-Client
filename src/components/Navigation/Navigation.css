@@ -1,0 +1,7 @@
+.item{
+    color: white;
+    text-decoration: none;
+}
+.item:hover{
+    color: #FFCD00 ;
+}
