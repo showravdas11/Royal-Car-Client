@@ -77,7 +77,7 @@ const Register = () => {
                                 required
                             />
                             <br />
-                            <button type="submit" className="img-fluid mt-3">Register</button>
+                            <button type="submit" className="img-fluid Buy-Now mt-3">Register</button>
                             <br />
 
                             <Link style={{ textDecoration: 'none' }} to="/login"><Button variant="text">Already Register? Please Login</Button></Link>

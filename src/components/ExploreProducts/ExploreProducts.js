@@ -18,7 +18,7 @@ const ExploreProducts = ({ explore }) => {
 
                                 <p className="card-text">{descliption}</p>
 
-                                <Link to={`/placeorder/${_id}`}><button className="Buy-Now">Book Now</button></Link>
+                                <Link to={`/placeorder/${_id}`}><button className="Buy-Now">Buy Now</button></Link>
                             </div>
                         </div>
                     </div>

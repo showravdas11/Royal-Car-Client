@@ -19,7 +19,7 @@ const Navigation = () => {
 
 
                         {user?.email ?
-                            <Link className="me-4 item" to="/dashboard">Dashboard</Link> :
+                            <Link className="me-4 item" to="/dashboard/myorder">Dashboard</Link> :
                             <Link></Link>
                         }
 

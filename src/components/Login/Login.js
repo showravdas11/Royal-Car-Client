@@ -50,7 +50,7 @@ const Login = () => {
                                 required
                             />
                             <br />
-                            <button type="submit" className="img-fluid mt-3">Login</button>
+                            <button type="submit" className="img-fluid mt-3 Buy-Now">Login</button>
                             <br />
 
                             <Link style={{ textDecoration: 'none' }} to="/register"><Button variant="text">New User? Please Register</Button></Link>

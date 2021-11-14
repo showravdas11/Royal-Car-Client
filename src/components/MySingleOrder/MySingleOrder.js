@@ -32,7 +32,7 @@ const MySingleOrder = ({ order, deleteOrder }) => {
                     <div className="card-body">
                         <h4 className="card-title">{Name}</h4>
                         <p className="card-text">{description}</p>
-                        <button onClick={() => handleDelete(order._id)}>DELETE</button>
+                        <button onClick={() => handleDelete(order._id)} className=" Buy-Now">DELETE</button>
                     </div>
                 </div>
             </div>

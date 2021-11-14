@@ -32,7 +32,8 @@ import MakeAdmin from '../MakeAdmin/MakeAdmin';
 const drawerWidth = 240;
 
 function Dashboard(props) {
-    const { user, logOut } = useAuth()
+    const { user, logOut, admin } = useAuth()
+    console.log(admin);
     let { path, url } = useRouteMatch();
     console.log(path, url)
 
@@ -62,9 +63,10 @@ function Dashboard(props) {
                     <Link className="dash-link" to={`${url}/pay`}>Pay</Link>
                 </button>
                 <br />
-                <button className="dash-btn" >
-                    <Link className="dash-link" to={`${url}/makeadmin`}>Make Admin</Link>
-                </button>
+                {admin &&
+                    <button className="dash-btn" >
+                        <Link className="dash-link" to={`${url}/makeadmin`}>Make Admin</Link>
+                    </button>}
                 <br />
                 {
                     user?.email ?
