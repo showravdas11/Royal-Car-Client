@@ -11,6 +11,7 @@ import AuthProvider from './context/AuthProvider';
 import PrivateRoute from './components/PrivateRoute/PrivateRoute';
 import Dashboard from './components/Dashboard/Dashboard';
 import MyOrders from './components/MyOrders/MyOrders';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -41,6 +42,7 @@ function App() {
               <Register></Register>
             </Route>
           </Switch>
+          <Footer></Footer>
         </BrowserRouter>
       </AuthProvider>
     </div>

@@ -1,0 +1,127 @@
+footer-cont{
+    background-color: black;
+}
+
+.footer{
+    margin-top: 50px;
+    background-color: black;
+    border-top: 1px solid rgb(146, 139, 139);
+}
+
+.footer-content{
+    position: relative;
+margin-bottom: 45px;
+color: #ffffff;
+}
+
+.footer-content h2{
+    position: relative;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+    font-size: 22px;
+    font-weight: 700;
+    color: #FF7F47;
+}
+
+ .footer-content p{
+    font-weight: 600;
+    font-family: 'Nunito',sans-serif
+ }
+
+.footer-content h2::after{
+    position: absolute;
+    content: "";
+    width: 45px;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background: #719a0a;
+}
+
+.footer-social{
+    position: relative;
+    margin-top: 20px;
+    display: flex;
+}
+
+.footer-social a{
+    margin-right: 5px;
+    width: 35px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #FF7F47;
+    border-radius: 35px;
+    font-size: 16px;
+    color: #fff;
+    text-decoration: none;
+;
+}
+
+.footer-link h2::after{
+    position: absolute;
+    content: "";
+    width: 45px;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background: #719a0a;
+}
+
+.footer-link{
+    position: relative;
+    margin-bottom: 45px;
+    color: #ffffff;
+}
+
+.footer-link h2{
+    position: relative;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+    font-size: 22px;
+    font-weight: 700;
+    color: #FF7F47;
+}
+
+.link {
+    display: block;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+    color: #ffffff;
+    transition: .3s;
+    text-decoration: none;
+    font-weight: 600;
+    font-family: 'Nunito',sans-serif;
+}
+
+.link:hover {
+   letter-spacing: 5px;
+}
+
+.footer-icon{
+    color: #FF7F47;
+    margin-right: 10px;
+}
+
+.footer-newsletter h2::after{
+    position: absolute;
+    content: "";
+    width: 45px;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background: #719a0a;
+}
+
+.footer-newsletter h2{
+    position: relative;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+    font-size: 22px;
+    font-weight: 700;
+    color: #FF7F47;
+}
+.footer-newsletter p{
+    color: white;
+}
